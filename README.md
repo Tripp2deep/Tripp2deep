@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Tripp2deep
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Tripp2deep/Tripp2deep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I'm interested in finding easier ways to make my life more interesting and enjoyable 
+I'm currently learning how to use termux 
+You can reach me via 5meo.lucid@gmail.com
